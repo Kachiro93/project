@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AsproClaud</string>
+    <string name="registration">Регистрация</string>
+    <string name="auth">Войти</string>
+    <string name="input_login">Логин</string>
+    <string name="input_password">Пароль</string>
+    <string name="no_user_input">Введите логин</string>
+    <string name="no_password_input">Введите пароль</string>
+    <string name="input">Успешно вошел</string>
+    <string name="error_login_and_password">Неверный логин или пароль</string>
+    <string name="title_activity_home_nav">home_nav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="day_of_weeks">
+        <item>понедельник</item>
+        <item>вторник</item>
+        <item>среда</item>
+        <item>четверг</item>
+        <item>Пятница</item>
+        <item>суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>
